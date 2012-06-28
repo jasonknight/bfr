@@ -1,0 +1,4 @@
+application/static/certs/*
+*.swp
+*~
+*.bak
